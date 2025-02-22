@@ -1,1 +1,1 @@
-# ML-Capstone-Project-Global-Well-Being-Prediction-Using-Development-Indicators
+# ML Capstone Project-Global Well Being Prediction Using Development Indicators
