@@ -41,8 +41,9 @@ Variable	Type	Values	Description
 ![image](https://github.com/user-attachments/assets/c720ba7d-d83c-4470-a2d1-f57de1294b94)
 
 
-Results Summary
-1. Life Ladder Score Prediction
+**Results Summary**
+
+**1. Life Ladder Score Prediction**
 Best Model: RandomForestRegressor
 
 Test R²: 0.856 (excellent generalization).
@@ -51,7 +52,7 @@ MAE: 0.321 (low average error).
 Overfitting: Minimal (Train R²: 0.851).
 Alternatives: GradientBoostingRegressor and XGBRegressor are strong options but slightly less accurate.
 
-2. Healthy Life Expectancy Prediction
+**2. Healthy Life Expectancy Prediction**
 Best Model: RandomForestRegressor
 
 Test R²: 0.916 (outstanding generalization).
@@ -59,6 +60,6 @@ MSE: 3.63, MAE: 1.27 (low errors).
 Overfitting: Balanced (Train R²: 0.852).
 Alternatives: XGBRegressor performs similarly but with slightly higher errors.
 
-Final Recommendation:
+**Final Recommendation:**
 RandomForestRegressor is the best model for both tasks, delivering high accuracy, minimal errors, and excellent generalization.
 
