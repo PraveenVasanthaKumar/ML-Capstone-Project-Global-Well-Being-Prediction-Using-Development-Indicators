@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5b7e8751-d7e0-4d0f-b4b1-cc1a8fe8d3d7)![image](https://github.com/user-attachments/assets/8ce2c2ca-f946-4578-b31c-95c5e392b0f2)# ML Capstone Project-Global Well Being Prediction Using Development Indicators
+# ML Capstone Project-Global Well Being Prediction Using Development Indicators
 
 **Objective**
 
@@ -39,7 +39,6 @@ This dataset provides various indicators for countries based on their happiness 
 Variable	Type	Values	Description
 
 ![image](https://github.com/user-attachments/assets/c720ba7d-d83c-4470-a2d1-f57de1294b94)
-
 
 
 Results Summary
